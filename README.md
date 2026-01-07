@@ -24,7 +24,7 @@ I used the following tools to develop this software:
  How to Run
 1. Open the `hello.py` file in VS Code (or any text editor)  
 2. Run the file using Python  
-3. The program will display:
+3. The program will display: Hello World
 
 
  Useful Websites
@@ -33,3 +33,4 @@ These websites were helpful while creating this program:
  [Python Official Documentation](https://www.python.org/doc/)
  [GitHub Guides](https://guides.github.com/)
  [Visual Studio Code Documentation](https://code.visualstudio.com/docs)
+
